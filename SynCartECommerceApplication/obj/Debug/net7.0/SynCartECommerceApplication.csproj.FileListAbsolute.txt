@@ -1,0 +1,15 @@
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\bin\Debug\net7.0\SynCartECommerceApplication.exe
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\bin\Debug\net7.0\SynCartECommerceApplication.deps.json
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\bin\Debug\net7.0\SynCartECommerceApplication.runtimeconfig.json
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\bin\Debug\net7.0\SynCartECommerceApplication.dll
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\bin\Debug\net7.0\SynCartECommerceApplication.pdb
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\obj\Debug\net7.0\SynCartECommerceApplication.csproj.AssemblyReference.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\obj\Debug\net7.0\SynCartECommerceApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\obj\Debug\net7.0\SynCartECommerceApplication.AssemblyInfoInputs.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\obj\Debug\net7.0\SynCartECommerceApplication.AssemblyInfo.cs
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\obj\Debug\net7.0\SynCartECommerceApplication.csproj.CoreCompileInputs.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\obj\Debug\net7.0\SynCartECommerceApplication.dll
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\obj\Debug\net7.0\refint\SynCartECommerceApplication.dll
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\obj\Debug\net7.0\SynCartECommerceApplication.pdb
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\obj\Debug\net7.0\SynCartECommerceApplication.genruntimeconfig.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SynCartECommerceApplication\obj\Debug\net7.0\ref\SynCartECommerceApplication.dll

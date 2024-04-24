@@ -1,0 +1,15 @@
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.exe
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.deps.json
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.runtimeconfig.json
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.dll
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\bin\Debug\net7.0\PayrollManagementSystem.pdb
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.AssemblyReference.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.AssemblyInfoInputs.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.AssemblyInfo.cs
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.dll
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\obj\Debug\net7.0\refint\PayrollManagementSystem.dll
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.pdb
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\obj\Debug\net7.0\PayrollManagementSystem.genruntimeconfig.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\PayrollManagementSystem\obj\Debug\net7.0\ref\PayrollManagementSystem.dll

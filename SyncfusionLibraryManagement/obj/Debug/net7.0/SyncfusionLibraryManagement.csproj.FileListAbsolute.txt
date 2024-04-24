@@ -1,0 +1,15 @@
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\bin\Debug\net7.0\SyncfusionLibraryManagement.exe
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\bin\Debug\net7.0\SyncfusionLibraryManagement.deps.json
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\bin\Debug\net7.0\SyncfusionLibraryManagement.runtimeconfig.json
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\bin\Debug\net7.0\SyncfusionLibraryManagement.dll
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\bin\Debug\net7.0\SyncfusionLibraryManagement.pdb
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\obj\Debug\net7.0\SyncfusionLibraryManagement.csproj.AssemblyReference.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\obj\Debug\net7.0\SyncfusionLibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\obj\Debug\net7.0\SyncfusionLibraryManagement.AssemblyInfoInputs.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\obj\Debug\net7.0\SyncfusionLibraryManagement.AssemblyInfo.cs
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\obj\Debug\net7.0\SyncfusionLibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\obj\Debug\net7.0\SyncfusionLibraryManagement.dll
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\obj\Debug\net7.0\refint\SyncfusionLibraryManagement.dll
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\obj\Debug\net7.0\SyncfusionLibraryManagement.pdb
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\obj\Debug\net7.0\SyncfusionLibraryManagement.genruntimeconfig.cache
+C:\Users\SivaParamasivam\OneDrive - Syncfusion\Desktop\Assignments\Phase2\SyncfusionLibraryManagement\obj\Debug\net7.0\ref\SyncfusionLibraryManagement.dll
